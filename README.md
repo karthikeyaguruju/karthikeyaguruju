@@ -1,5 +1,5 @@
 <br clear="both">
-<img align="left" height="200" src="https://i.ibb.co/Sn5hM0v/My-Image.png"  />
+<!-- <img align="left" height="200" src="https://i.ibb.co/Sn5hM0v/My-Image.png"  /> -->
 <h2 align="center">Hi 👋, I'm Guruju Karthikeya
   <br>I am a Student, and I'm very passionate and dedicated to my study. I can utilize my skills and enhance learning in the filed of work. Capable of mastering new source ideas.I have acquired the skills and knowledge necessary to make your project a success.</h2>
 
