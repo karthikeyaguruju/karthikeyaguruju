@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/karthikeyaguruju/karthikeyaguruju/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
