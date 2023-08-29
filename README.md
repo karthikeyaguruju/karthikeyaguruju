@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h2 align="left">Hi! My name is KarthikeyaGuruju. I am a Student, and I'm very passionate and dedicated to my study. I can utilize my skills and enhance learning in the filed of work. Capable of mastering new source ideas.I have acquired the skills and knowledge necessary to make your project a success.</h2>
+<h2 align="left">Hi 👋, I'm Guruju Karthikeya
+  <br>I am a Student, and I'm very passionate and dedicated to my study. I can utilize my skills and enhance learning in the filed of work. Capable of mastering new source ideas.I have acquired the skills and knowledge necessary to make your project a success.</h2>
 
 ###
 
