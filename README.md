@@ -1,7 +1,7 @@
 <br clear="both">
 <!-- <img align="left" height="200" src="https://i.ibb.co/Sn5hM0v/My-Image.png"  /> -->
 <h2 align="center">Hi 👋, I'm Guruju Karthikeya
-  <br"I am a dedicated and passionate student with a strong commitment to my studies. I possess the ability to apply my skills effectively and contribute to the advancement of knowledge in my field of interest. I am adept at quickly grasping new concepts and have acquired the proficiency needed to excel in your project, ensuring its success."</h2>
+  <br>"I am a dedicated and passionate student with a strong commitment to my studies. I possess the ability to apply my skills effectively and contribute to the advancement of knowledge in my field of interest. I am adept at quickly grasping new concepts and have acquired the proficiency needed to excel in your project, ensuring its success."</h2>
 
 ###
 
