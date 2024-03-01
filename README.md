@@ -55,12 +55,12 @@
 ###
 
 <div align="left">
-  <img src="animated_stats.gif" height="152" alt="stats graph"  /></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyaguruju&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="152" alt="stats graph"  /></div>
   <div align="right">
-  <img src="animated_top_languages.gif" height="182" alt="languages graph"  /></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikeyaguruju&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="182" alt="languages graph"  /></div>
 
   <div align="left">
-  <img src="animated_streak.gif" height="170" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=karthikeyaguruju&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
