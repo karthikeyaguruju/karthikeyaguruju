@@ -1,11 +1,10 @@
 <br clear="both">
 <!-- <img align="left" height="200" src="https://i.ibb.co/Sn5hM0v/My-Image.png"  /> -->
 <li>
-👋 Hi, I’m karthikeyaguruju<br>
-👀 I’m interested in Full Stack Web Development<br>
-🌱 I’m currently learning ReactJS, NodeJS, Angular, ExpressJS, and other Technologies that help me build web apps.<br>
-💞️ I’m looking to collaborate on the development of the basic projects that I'm working on<br>
-  </li>
+👋 Hi, I’m karthikeyaguruju<br></li>
+<li>👀 I’m interested in Full Stack Web Development<br></li>
+<li>🌱 I’m currently learning ReactJS, NodeJS, Angular, ExpressJS, and other Technologies that help me build web apps.<br></li>
+<li>💞️ I’m looking to collaborate on the development of the basic projects that I'm working on<br></li>
 <h1> About Us</h1>h1>
 <h2 align="center" style="text-decoration: none;color:#000">Hi 👋, I'm Guruju Karthikeya
   <br>"I am a dedicated and passionate student with a strong commitment to my studies. I possess the ability to apply my skills effectively and contribute to the advancement of knowledge in my field of interest. I am adept at quickly grasping new concepts and have acquired the proficiency needed to excel in your project, ensuring its success."</h2>
