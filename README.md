@@ -1,5 +1,5 @@
 <br clear="both">
-<!-- <img align="left" height="200" src="https://i.ibb.co/Sn5hM0v/My-Image.png"  /> -->
+<img align="left" height="200" src="https://i.ibb.co/Sn5hM0v/My-Image.png"  />
 <li> 👋 Hi, I’m karthikeyaguruju<br></li>
 <li> 👀 I’m interested in Full Stack Web Development<br></li>
 <li> 🌱 I’m currently learning ReactJS, NodeJS, Angular, ExpressJS, and other Technologies that help me build web apps.<br></li>
