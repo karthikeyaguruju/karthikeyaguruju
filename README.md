@@ -4,7 +4,7 @@
 <li> 👀 I’m interested in Full Stack Web Development<br></li>
 <li> 🌱 I’m currently learning ReactJS, NodeJS, Angular, ExpressJS, and other Technologies that help me build web apps.<br></li>
 <li> 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on<br></li>
-<hr style="width:1%">
+<hr>
 <h1 align="center" style="color:red"> About Us</h1>
 <h4 align="center" style="text-decoration: none;color:#000">Hi 👋, I'm Guruju Karthikeya
   <br>"I am a dedicated and passionate student with a strong commitment to my studies. I possess the ability to apply my skills effectively and contribute to the advancement of knowledge in my field of interest. I am adept at quickly grasping new concepts and have acquired the proficiency needed to excel in your project, ensuring its success."</h4>
@@ -55,12 +55,13 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikeyaguruju&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="152" alt="stats graph"  /></div>
+  <img src="animated_stats.gif" height="152" alt="stats graph"  /></div>
   <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikeyaguruju&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="182" alt="languages graph"  /></div>
+  <img src="animated_top_languages.gif" height="182" alt="languages graph"  /></div>
 
   <div align="left">
-  <img src="https://streak-stats.demolab.com?user=karthikeyaguruju&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="animated_streak.gif" height="170" alt="streak graph"  />
 </div>
 
 ###
+
