@@ -5,7 +5,7 @@
 <li> 🌱 I’m currently learning ReactJS, NodeJS, Angular, ExpressJS, and other Technologies that help me build web apps.<br></li>
 <li> 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on<br></li>
 <hr>
-I am the founder of WebDev16 and a freelance web developer. You can find more information about my projects at our website: www.webdev16.tech.
+<li> I am the founder of WebDev16 and a freelance web developer. You can find more information about my projects at our website: <a href="https://www.webdev16.tech" target="_blank">www.webdev16.tech</a>. 🚀</li>
 <hr/>
 <h1 align="center" style="color:red"> About Us</h1>
 <h4 align="center" style="text-decoration: none;color:#000">Hi 👋, I'm Guruju Karthikeya
